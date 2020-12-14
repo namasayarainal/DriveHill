@@ -1,11 +1,11 @@
 # DriveHill
-kelompok 5 1SIMB
+Kelas 1SIMB
 
 Universitas Internasional Batam
 
 Teknik Pemograman - Fradian Simanjuntak, S.Kom.
 
-Proyek AKhir Game Drive Hill
+Proyek Akhir Game Drive Hill
 
 Kelompok 5 Tahun 2020/2021
 Jerry	2031102
